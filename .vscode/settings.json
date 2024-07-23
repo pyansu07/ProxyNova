@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "valarray": "cpp",
+    "deque": "cpp",
+    "vector": "cpp",
+    "xstring": "cpp",
+    "queue": "cpp",
+    "stack": "cpp",
+    "xutility": "cpp",
+    "utility": "cpp",
+    "map": "cpp",
+    "unordered_map": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp"
+  },
+  "editor.defaultFormatter": null,
+  "editor.formatOnSave": true,
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.dimInactiveRegions": false,
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "c:\\Users\\pyans\\Documents\\Parallel_file_encrypter",
+      "binaryPath": "c:\\Users\\pyans\\Documents\\Parallel_file_encrypter\\cryption",
+      "binaryArgs": []
+    }
+  ]
+}
